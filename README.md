@@ -47,8 +47,6 @@ The robot control board is designed as a general board which can be used to cont
 
 The ESP32 firmware takes full advantage of **dual-core processing and FreeRTOS**, separating motor control, sensor polling, and battery monitoring into concurrent tasks. PWM outputs and GPIO control ensure precise actuation of motors and servos, while ADC channels monitor battery voltage for safe operation. Timers and interrupts are used for responsive and low-latency control, critical in fast-moving robotics systems.
 
-This PCB has been tested in a **robotic car platform**, demonstrating stable and reliable operation under real-world conditions. Its modular design allows expansion through I2C and servo headers for additional sensors and actuators.
-
 ---
 
 ## Usage
@@ -60,8 +58,6 @@ This PCB has been tested in a **robotic car platform**, demonstrating stable and
 5. Use onboard LED for status or debugging indications.
 
 ---
-
-## Tech Stack / Tools
 
 - **MCU:** ESP32 with FreeRTOS  
 - **Motor Control:** PWM, GPIO  
