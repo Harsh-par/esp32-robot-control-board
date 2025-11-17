@@ -1,5 +1,5 @@
 
-# Robot Control PCB (RPCB)
+# Robot Control Board
 
 A custom **robot control PCB** designed for robotics applications. The robot control board uses an ESP32 to achieve motor driving, power management, and sensor interfacing into a single modular board for robotic vehicles and projects.
 
