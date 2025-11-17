@@ -32,10 +32,10 @@ A custom **robot control PCB** designed for robotics applications. The robot con
 **Schematic**  
 ![Schematic](Schematic_RPCB.png)  
 
-**PCB in robotics project**  
+**PCB in example project**  
 ![WIP](RPCB.jpg)  
 
-**PCB layout**  
+**PCB**  
 ![PCB](PCB_IM.jpg)  
 
 ---
